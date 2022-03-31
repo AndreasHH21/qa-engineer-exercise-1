@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CompanySeleniumApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(CompanySeleniumApplication.class, args);
+
 	}
 
 }
